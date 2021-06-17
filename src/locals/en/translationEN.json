@@ -1,0 +1,15 @@
+{
+	"editing": "Editing",
+	"creating": "Creating a Post",
+	"Post": "Creating a Post",
+    "greeting":"hi",
+	"Creator": "Creator",
+	"Title": "Title",
+	"Message": "Message",
+	"Tags": "Tags (use ',')",
+	"Submit": "Submit",
+	"Clear": "Clear",
+	"Edit": "Edit",
+	"Delete": "Delete",
+	"Like": "Like"
+}
